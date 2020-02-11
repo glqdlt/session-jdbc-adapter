@@ -1,0 +1,2 @@
+# spring.factories org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.glqdlt.session.JdbcSessionAutoConfiguration
